@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_0080</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">按钮1</string>
+    <string name="button2">按钮2</string>
+    <string name="button3">按钮3</string>
+	<string name="button4">按钮4</string>
+	
+</resources>
